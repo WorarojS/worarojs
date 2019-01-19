@@ -140,10 +140,10 @@ font-family: 'Anonymous Pro', monospace;
 .bg1{
 
 	color: white;
-	background:  linear-gradient(rgb(25,25,25,.5),rgb(25,25,25,.6)), url(res/bg117.png);
+	background-image:  linear-gradient(rgb(25,25,25,.5),rgb(25,25,25,.6)), url(res/bg117.png);
 	-webkit-background:linear-gradient(rgb(25,25,25,.5),rgb(25,25,25,.6)), url(res/bg117.png);;
 	background-repeat: no-repeat;
-	background-attachment: fixed;
+
 	 -webkit-background-size: cover;
  	-moz-background-size: cover;
  	-o-background-size: cover;

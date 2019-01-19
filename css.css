@@ -379,7 +379,7 @@ font-family: 'Anonymous Pro', monospace;
 /*page3*/
 #page3{
 	height: 800px;
-	background: rgb(28,28,28,.7);
+	background: rgb(28,28,28);
 	background-position: top;
 	padding-top: 0px;
 }
@@ -424,7 +424,7 @@ font-family: 'Anonymous Pro', monospace;
 
 	#page3{
 	height: 1100px;
-	background:  linear-gradient(rgb(20,20,20,.7),rgb(20,20,20,.7)), url(res/bg05.jpg);
+	background:  rgb(20,20,20);
 	background-position: bottom;
 	padding-top: 0px;
 	}
@@ -491,7 +491,7 @@ li img {
 
 /*page4*/
 #page4{
-	background:   linear-gradient(rgb(0,0,0,.6),rgb(28,28,28,.8)),url(res/bg05.jpg);
+	background: rgb(28,28,28);
 	background-position: bottom;
 	background-repeat: no-repeat;
  /* 	background-size: cover;*/

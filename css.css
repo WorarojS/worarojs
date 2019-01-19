@@ -32,7 +32,7 @@ header{
 
 
 .quote2{
-	color: white;
+	color: black;
 	font-family: 'Anonymous Pro', monospace;
 	position: relative;
 	top: 50%;
@@ -53,7 +53,7 @@ header{
 }
 
 .quote1{
-	color: white;
+	color: black;
 font-family: 'Anonymous Pro', monospace;
 	font-size: 60px;
 	font-weight: 700;
@@ -75,7 +75,7 @@ font-family: 'Anonymous Pro', monospace;
 
 @keyframes blinkTextCursor {
 	from{
-		border-right-color: rgba(255, 255, 255, 0.75);
+		border-right-color: rgba(0, 0, 0);
 	}
 	to{
 		border-right-color: transparent;
@@ -88,7 +88,7 @@ font-family: 'Anonymous Pro', monospace;
 		color: transparent;
 	}
 	20%{
-		color: black;
+		color: white;
 		margin-bottom: -40px;
 	}
 	30%{
@@ -140,7 +140,7 @@ font-family: 'Anonymous Pro', monospace;
 
 .bg1{
 
-	color: white;
+	color: black;
 	background-image:  url(res/bg117.png);
 	
 	background-repeat: no-repeat;
@@ -159,7 +159,7 @@ font-family: 'Anonymous Pro', monospace;
 .nav-logo{
 	margin: 20px;
 	margin-left: 110px;
-	color: white;
+	color: black;
 	float: left;
 	font-size: 30px;
 	font-family: 'monoton', serif;
@@ -183,7 +183,7 @@ font-family: 'Anonymous Pro', monospace;
 }
 
 .nav-bar li a {
-	color: white;
+	color: black;
     display: inline-block;
     text-decoration: none;
     padding: 20px;
